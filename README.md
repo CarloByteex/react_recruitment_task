@@ -3,7 +3,12 @@
 React technical assessment task.
 
 ## Screenshot
-![Screenshot](yumazzo-chrome-extension.png)
+![Screenshot](screenshot(light mode).png)
+![Screenshot](screenshot(dark mode).png)
+
+## Public url
+
+https://reactrecruitment.netlify.app/
 
 ## Dependencies
 
