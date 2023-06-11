@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import axios, { AxiosRequestConfig } from 'axios';
+import axios from 'axios';
 
 
 export const useAxios = () => {

@@ -25,7 +25,6 @@ function Home() {
     await Promise.all(
       data.map(async (user: any) => {
         const repos = await request(user.repos_url);
-        // const repos = await reposResponse.json();
 
         filteredUsers.push({
           ...user,
