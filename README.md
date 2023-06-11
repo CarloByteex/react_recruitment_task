@@ -1,10 +1,12 @@
 # react_recruitment_task
 
-React technical assessment task.
+This is a React (TypeScript) project that fetches user and repository data from Github. It was developed as a technical assessment task for Atask. Please feel free to review my work and provide feedback.
 
-## Screenshot
-![Screenshot](screenshot(light mode).png)
-![Screenshot](screenshot(dark mode).png)
+## Screenshot(Light Mode)
+![Screenshot](screenshot_light_mode.png)
+
+## Screenshot(Dark Mode)
+![Screenshot](screenshot_dark_mode.png)
 
 ## Public url
 
